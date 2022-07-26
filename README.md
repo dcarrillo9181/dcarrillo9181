@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dcarrillo9181
+- 👋 Hi, I’m Dorian!
 - 👀 I’m interested in anything that is data science related and general webdev stuff.
 - 🌱 I’m currently learning SQL and how to use Python for data.
 - 💞️ I’m looking to collaborate on anything data related.
